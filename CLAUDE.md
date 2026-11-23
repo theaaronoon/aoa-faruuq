@@ -19,7 +19,7 @@ This repo is Ahmad Faruuq's personal landing page for AOA Real Estate (PropNex).
 
 ## Building the page the first time
 
-If `public/faruuq/index.html` is still the temporary redirect page:
+If `public/faruuq/index.html` is still the temporary holding page ("My page is on its way"):
 1. Copy `index.html` from `theaaronoon/aoa-landing-page` as the template. Keep its structure, sections, styles and scripts.
 2. Replace every Aaron-specific detail with Faruuq's. That covers his name, photo, bio, CEA number, booking link, WhatsApp number, reviews, reels, page title and meta description.
 3. Remove anything that is only true for Aaron, such as his haio.sg co-founder line, his press logos (unless Faruuq was featured too) and his PropertyGuru rating.
