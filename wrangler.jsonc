@@ -1,0 +1,14 @@
+// Faruuq's landing page, served at aoarealestate.com/faruuq
+// Everything under public/faruuq/ is published. Edit public/faruuq/index.html.
+{
+  "name": "aoa-faruuq",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    { "pattern": "aoarealestate.com/faruuq*", "zone_name": "aoarealestate.com" }
+  ],
+  "workers_dev": true
+}
